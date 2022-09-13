@@ -1,3 +1,3 @@
 # simplePorto.io
 
-a simple-portofolio website by me
+an unfinished simple-portofolio website by me
